@@ -72,10 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-AntsVsZombies/Saved/Logs/AntsVsZombies.log
-AntsVsZombies/Intermediate/CachedAssetRegistry.bin
-AntsVsZombies/Saved/Autosaves/PackageRestoreData.json
-AntsVsZombies/Saved/AutoScreenshot.png
-AntsVsZombies/Saved/Config/CrashReportClient/UECC-Windows-B9910EE94511F0FF9DA86E8315A65307/CrashReportClient.ini
-AntsVsZombies/Saved/Logs/AntsVsZombies-backup-2022.09.14-01.33.18.log
-AntsVsZombies/Saved/Logs/AntsVsZombies-backup-2022.09.01-01.17.41.log
+D:\The Archives\Unreal Projects\BigBug\BigBug\AntsVsZombies\Intermediate\CachedAssetRegistry.bin
